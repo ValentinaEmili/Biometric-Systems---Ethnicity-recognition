@@ -5,6 +5,7 @@ Realtime ethnicity recognition system, using *Viola-Jones* and dlib shape predic
 - Asian
 - Indian
 - Others (Middle Eastern, Latinos, ...)
+
 The system is able to guess the ethnicity analyzing your eyes, nose and mouth through a video. Not only! The dataset UTKFace that we used to train our models, had information also about age and gender. So we will be able to predict them either!
 If you want to try the demo, follow these steps:
 1. download the trained models: you can try two versions, one trained with the CNN and another one with SVM. In both cases we suggest to not modify the structure and organization of the folders and files
